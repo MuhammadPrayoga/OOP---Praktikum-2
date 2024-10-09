@@ -1,1 +1,3 @@
-# OOP---Praktikum-2
+# OOP-Praktikum-2
+
+## Latihan 1
