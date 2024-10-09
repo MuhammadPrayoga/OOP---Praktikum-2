@@ -37,6 +37,9 @@
 
 ![](Photo/person.png)
 
+## Output:
+![](Photo/outputakunbank.png)
+
 ## Latihan 3
 ![](Photo/Screenshot%20(14).png)
 
@@ -46,3 +49,7 @@
 - Buat objek AkunBank dan tetapkan nilai saldo awal Rp. 100000, kemudian panggil 3 method tersebut dan tampilkan proses
 
 ![](Photo/akunbank.png)
+
+## Output:
+
+![](Photo/outputperson.png)
